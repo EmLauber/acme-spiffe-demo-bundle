@@ -4,7 +4,7 @@
       "kty": "RSA",
       "use": "jwt-svid",
       "alg": "RS256",
-      "kid": "contoso-refund-agent-1",
+      "kid": "acme-refund-agent-1",
       "e": "AQAB",
       "n": "jnVzVcmBWQivaGTQB1klfbH2XIi3YwTTUgwDvsvgaGq-5ILfwtlQI7QrDnLYMJV0HdzoTSCsrXgbYm2wm1lZNemRE3LFB2954PpeMz7FX2aSQPY9KH08jyym02JxmzrqOMikil-K0W4lvfbxwHIklb9RAu79hjuCfPB7wjOV6u0Sy2JmQt2Oe4oj3k3GkxojNgMNgbhw0NHhMdk6TYxqa28WCMtlwEDg7u1F4sCcmVi7EWNfFihGP6V9JtbqBjLARXgBI6D14kR8UmrCishVu_BVvz2klS-hH6tMGoUfPTZvTWT3eMpj6BzEGjTBCVOF79Sc0lcxEu-TGrwnUt9oCQ"
     }
